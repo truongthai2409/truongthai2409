@@ -18,8 +18,8 @@ I'm committed to learning and growing as a developer, contributing to meaningful
 ## 📫 Let's Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/truongthai24/) or check out my repositories below to see my latest work!
 
-## 🤺 Languages
-
+## 🤺 Top Languages
+Here are the programming languages I use the most in my projects:
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongthai2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
