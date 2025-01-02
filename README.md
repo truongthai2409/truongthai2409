@@ -20,7 +20,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/truongtha
 
 ## 🤺 Languages
 
+###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongthai2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongthai2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+###
 
