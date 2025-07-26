@@ -22,7 +22,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/truongtha
 Here are the programming languages I use the most in my projects:
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongthai2409&hide=vue,php&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongthai2409&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
